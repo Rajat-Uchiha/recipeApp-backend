@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js"
-    "build": "npm run build"
+    "build": "run build"
   },
   "author": "",
   "license": "ISC",
